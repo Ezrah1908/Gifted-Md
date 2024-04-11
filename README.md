@@ -72,6 +72,7 @@
 8.  ***Capital of City Finding(ccf).***
 ##
 
+---
 
  <h3>Gifted-MD V.2.5.0 Stats</h3>
 
@@ -103,7 +104,13 @@
 ### I Am
 - [Gifted Tech](https://github.com/giftedtechnexus) 
 
+---
+### Credits to:
+- [Suhail Ser](https://github.com/SuhailTechInfo)
 
+- [Astropeda Team](https://github.com/Astropeda)
+
+---
 
 
 <h2 align="center">  NOTICE
